@@ -1,0 +1,6 @@
+c:\users\jesse.morris\documents\visual studio 2013\Projects\TimeOfDay\TimeOfDay\bin\TimeOfDay.dll.config
+c:\users\jesse.morris\documents\visual studio 2013\Projects\TimeOfDay\TimeOfDay\bin\TimeOfDay.dll
+c:\users\jesse.morris\documents\visual studio 2013\Projects\TimeOfDay\TimeOfDay\bin\TimeOfDay.pdb
+c:\users\jesse.morris\documents\visual studio 2013\Projects\TimeOfDay\TimeOfDay\obj\Debug\TimeOfDay.csprojResolveAssemblyReference.cache
+c:\users\jesse.morris\documents\visual studio 2013\Projects\TimeOfDay\TimeOfDay\obj\Debug\TimeOfDay.dll
+c:\users\jesse.morris\documents\visual studio 2013\Projects\TimeOfDay\TimeOfDay\obj\Debug\TimeOfDay.pdb
