@@ -9,17 +9,16 @@ Save your project and test it to make sure it works. Your source code should hav
 Quiz
 
     Q: What is the difference between a client computer and a server computer?
-     A:
-
+     A: A client computer is a consumer of content served over the world wide web while a server is a computer that "serves" content out to client computers.  The server delivers content to the client.
 
 
     Q: What is an ASPX source file?
-     A: 
+     A: An ASPX source file is a file containing HTML and ASP.NET script code that is used to create web content.
 
 
 
     Q: What is a code-behind file?
-     A: 
+     A: A code-behind file is a file containing code in a .NET language such as C#, VB, etc.  This file responds to and interacts with the ASPX source file.
 
 
 
